@@ -29,19 +29,19 @@ var JSON_CONSTANTS = [
   },
   {
     "name": "NLCD_CATCHMENT_FEATUREID",
-    "value": "7"
+    "value": "8"
   },
   {
     "name": "NCDEQ_NORMALIZED_FEATUREID",
-    "value": "9"
-  },
-  {
-    "name": "HUC_NAMES_FEATUREID",
     "value": "10"
   },
   {
-    "name": "TRA_XWALK",
+    "name": "HUC_NAMES_FEATUREID",
     "value": "11"
+  },
+  {
+    "name": "TRA_XWALK",
+    "value": "12"
   },
   {
     "name": "imagery",
