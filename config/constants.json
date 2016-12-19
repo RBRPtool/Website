@@ -5,11 +5,11 @@ var JSON_CONSTANTS = [
   },
   {
     "name": "AGO_URL",
-    "value": "https://services1.arcgis.com/PwLrOgCfU0cYShcG/ArcGIS/rest/services"
+    "value": "https://services2.arcgis.com/kCu40SDxsCGcuUWO/ArcGIS/rest/services"
   },
   {
     "name": "FEATURE_SERVICE_NAME",
-    "value": "RDRBP_AGO6"
+    "value": "RDRBP_AGO"
   },
   {
     "name": "TRA_FEATUREID",
@@ -33,15 +33,15 @@ var JSON_CONSTANTS = [
   },
   {
     "name": "NCDEQ_NORMALIZED_FEATUREID",
-    "value": "10"
+    "value": "9"
   },
   {
     "name": "HUC_NAMES_FEATUREID",
-    "value": "11"
+    "value": "10"
   },
   {
     "name": "TRA_XWALK",
-    "value": "12"
+    "value": "11"
   },
   {
     "name": "imagery",
