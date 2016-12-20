@@ -60,22 +60,22 @@ var JSON_CONSTANTS = [
   },
   {
     "name": "Catchments Base Map",
-    "value": "https://tiles.arcgis.com/tiles/PwLrOgCfU0cYShcG/arcgis/rest/services/Catchments/MapServer"
+    "value": "https://tiles.arcgis.com/tiles/kCu40SDxsCGcuUWO/arcgis/rest/services/catchment/MapServer"
   },
   {
     "name": "HUC 12 Base Map",
-    "value": "https://tiles.arcgis.com/tiles/PwLrOgCfU0cYShcG/arcgis/rest/services/huc12/MapServer"
+    "value": "https://tiles.arcgis.com/tiles/kCu40SDxsCGcuUWO/arcgis/rest/services/huc12/MapServer"
   },
   {
     "name": "Cataloging Units Base Map",
-    "value": "https://tiles.arcgis.com/tiles/PwLrOgCfU0cYShcG/arcgis/rest/services/huc8/MapServer"
+    "value": "https://tiles.arcgis.com/tiles/kCu40SDxsCGcuUWO/arcgis/rest/services/huc8/MapServer"
   },
   {
     "name": "River Basins Base Map",
-    "value": "https://tiles.arcgis.com/tiles/PwLrOgCfU0cYShcG/arcgis/rest/services/huc6_outline/MapServer"
+    "value": "https://tiles.arcgis.com/tiles/kCu40SDxsCGcuUWO/arcgis/rest/services/huc6_outline/MapServer"
   },
   {
     "name": "Targeted Resource Areas (TRA) Base Map",
-    "value": "https://tiles.arcgis.com/tiles/PwLrOgCfU0cYShcG/arcgis/rest/services/TRAS/MapServer"
+    "value": "https://tiles.arcgis.com/tiles/kCu40SDxsCGcuUWO/arcgis/rest/services/TRAS/MapServer"
   }
 ]
